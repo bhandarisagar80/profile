@@ -1,0 +1,29 @@
+#profilepic{
+width:200px;
+border-radius:80%;
+}
+body{
+text-align:center;
+
+}
+h2{
+font-size:60px
+}
+.main{
+background: linear-gradient(to top, #3399ff 0%, #ff99cc 100%);
+}
+h1{
+font-size:30px;
+}
+.links{
+font-size: 15px;
+    display: inline;
+    padding-left:10px;
+    padding-right: 10px;
+  float:right;
+    
+}
+img{
+  float:right
+}
+
